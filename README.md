@@ -34,4 +34,6 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shyam1444&" alt="shyam1444" /></p>
 
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+> 🚀 **"Excellence happens not by accident. It is a process. You have to work hard. You have to keep going, even when others stop."**  
+> — *Dr. A.P.J. Abdul Kalam*
+
