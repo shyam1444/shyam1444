@@ -13,6 +13,8 @@
 
 - 💬 Ask me about **Data Science, AI/ML, Software Engineering, General Knowledge, History, Sports, Movies and Cinema, Philosophy (self-taught XD)**
 
+- 💻 👨‍💻 👩‍💻 🧑‍💻 👨‍💻🖥️ ⌨️ 📟 📱 Hit me up for any hackathon collab.
+
 - 📫 How to reach me **shyamvenkatraman2@gmail.com**
 
 ![Profile](https://img.shields.io/badge/Machine%20Learning-%E2%9C%94-green)
