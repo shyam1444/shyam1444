@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://svportfolio.my.canva.site/](https://svportfolio.my.canva.site/)
 
-- 💬 Ask me about **Data Science, AI/ML, Software Engineering, General Knowledge, History, Sports**
+- 💬 Ask me about **Data Science, AI/ML, Software Engineering, General Knowledge, History, Sports, Movies and Cinema, Philosophy (self-taught XD)**
 
 - 📫 How to reach me **shyamvenkatraman2@gmail.com**
 
