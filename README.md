@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shyam Venkatraman</h1>
-<h3 align="center">A passionate Artificial Intelligence and Software Engineering Enthusiast from India</h3>
+<h3 align="center">A passionate AI/ML and Software Engineering Enthusiast from India and continuing to learn more tech-stack and collab on projects.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shyam1444&label=Profile%20views&color=0e75b6&style=flat" alt="shyam1444" /> </p>
 
