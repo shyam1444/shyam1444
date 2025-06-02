@@ -15,7 +15,7 @@
 
 - 💻 👨‍💻 👩‍💻 🧑‍💻 👨‍💻🖥️ ⌨️ 📟 📱 Hit me up for any hackathon collab.
 
-- 📫 How to reach me **shyamvenkatraman2@gmail.com**
+- 📫 How to reach me - **shyamvenkatraman2@gmail.com**
 
 ![Profile](https://img.shields.io/badge/Machine%20Learning-%E2%9C%94-green)
 ![Open to Collaborate](https://img.shields.io/badge/Open%20to-Collaborations-%2300bcd4)
