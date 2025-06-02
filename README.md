@@ -19,6 +19,8 @@
 ![Open to Collaborate](https://img.shields.io/badge/Open%20to-Collaborations-%2300bcd4)
 ![Thinking Philosopher](https://img.shields.io/badge/Philosophy-Self%20Taught-%23ff69b4)
 
+[![Shyam's GitHub activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=shyam1444&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/shyam-venkatraman-b9374a21b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/shyam-venkatraman-b9374a21b/" height="30" width="40" /></a>
