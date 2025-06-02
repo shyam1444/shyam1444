@@ -33,3 +33,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shyam1444&show_icons=true&locale=en" alt="shyam1444" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shyam1444&" alt="shyam1444" /></p>
+
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
