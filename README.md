@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shyam1444" alt="shyam1444" /></a> </p>
 
-- 🎓 Pre-final Year Student at VIT Chennai | 📍 Chennai, Tamil Nadu, India  
+- 🎓 Pre-final Year Integrated M.Tech Software Engineeering (5 years) Student at VIT Chennai - Batch of 22' | 📍 Chennai, Tamil Nadu, India  
 
 - 🌱 I’m currently learning **a lot of things...**
 
