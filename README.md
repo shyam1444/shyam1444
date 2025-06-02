@@ -19,7 +19,8 @@
 ![Open to Collaborate](https://img.shields.io/badge/Open%20to-Collaborations-%2300bcd4)
 ![Thinking Philosopher](https://img.shields.io/badge/Philosophy-Self%20Taught-%23ff69b4)
 
-[![Shyam's GitHub activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=shyam1444&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![GitHub Streak](https://streak-stats.demolab.com?user=shyam1444&theme=github-dark&hide_border=true)](https://git.io/streak-stats)
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
