@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **Data Science, AI/ML, Software Engineering, General Knowledge, History, Sports, Movies and Cinema, Philosophy (self-taught XD)**
 
-- 💻 👨‍💻 👩‍💻 🧑‍💻 👨‍💻🖥️ ⌨️ 📟 📱 Hit me up for any hackathon collab or any research publication.
+- 💻 👨‍💻 👩‍💻 🧑‍💻 👨‍💻🖥️ ⌨️ 📟 📱 busy...
 
 - 📫 How to reach me - **shyamvenkatraman2@gmail.com**
 
